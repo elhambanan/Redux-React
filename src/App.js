@@ -7,7 +7,6 @@ const App = () => {
   return ( 
     <Provider store={store}>
       <div className="App">
-          <h3>React-Redux App</h3>
           <CakeContainer />
       </div>
     </Provider>
