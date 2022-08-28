@@ -14,7 +14,7 @@ const CakeContainer = (props) => {
 // export default CakeContainer;
 
 // 1. available to state
-// 2. set State => dispatch
+// 2. set State => dispatch the action
 // 3. connetc react to redux
 
 const mapStateToProps = (state) => {
